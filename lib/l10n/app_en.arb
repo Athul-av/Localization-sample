@@ -1,0 +1,42 @@
+{
+    "recipe":"recipe here!",
+    "veg":"veg-items",
+    "nonveg":"non-veg",
+
+    "tortilla" :"Tortilla soup",
+    "tortillades":"This vegetarian tortilla soup is so flavorful and easy to make! It's full of zesty flavor, featuring black beans and adobo sauce",
+    
+    "sheet":"Sheet pan pizza",
+    "sheetdes":"Here's how to make the best ever sheet pan pizza! This easy method makes a big pan for everyone to enjoy with your family",
+
+    "burrito":"Vegetarian Burrito",
+    "burritodes":"This fast dinner stars black beans and veggies with zingy cilantro lime ranch sauce",
+    
+    "fettuccine":"Fettuccine Alfredo",
+    "fettuccinedes":"This vegan fettuccine alfredo tastes decadent, but the creamy sauce is filled with healthy plant based ingredients",
+
+    "tofu":"BBQ Tofu",
+    "tofudes":"This epic BBQ tofu recipe is fast, easy and full of savory sweet flavor! A great way to make anyone into a tofu fan",
+
+    "pasta":"Vegetable pasta",
+    "pastades":"This easy vegetable pasta pairs spaghetti with colorful roasted veggies! It's healthy dinner idea for loading up on the good stuff.",
+
+
+    "grilledchick":"Grilled chicken escalope",
+    "grilledchickdes":"Grilled to perfection and served with a fresh salsa of grapes, spring onion and cherry tomatoes",
+     
+    "mutton":"Mutton korma",
+    "muttondes":"A flavourful mutton curry , where the meat is stirred with curd, garlic-ginger paste, cloves, caradamom and cinnamon sticks.",
+
+    "tandoori":"Tandoori Lamb",
+    "tandoorides":"Lamb chops marinated in strained yogurt and flavoursome masalas. Cooked till tender, this dish is guaranteed to impress",
+
+    "fish":"Fish Biriyani",
+    "fishdes":"This classic Malabar Fish Biriyani can be devoured at all times. Enjoy the delicious taste of this ever-charming dish",
+
+    "chicken65":"Chicken 65",
+    "chicken65des":"Chicken 65 is said to have originated in Chennai.This delicious, deep-fried recipe of Chicken 65 is from the house",
+
+    "butterchick":"Butter Chicken",
+    "butterchickdes":"This recipe of Butter Chicken from Moti mahal is easy to follow and makes for an instant conversation-starter"
+}

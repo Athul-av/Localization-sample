@@ -1,0 +1,42 @@
+{
+    "recipe":"receta aquí!",
+    "veg":"verduras", 
+    "nonveg":"no vegetales",
+    "tortilla" :"Sopa de tortilla",
+    "tortillades":"¡Esta sopa de tortilla vegetariana es tan sabrosa y fácil de hacer! Está lleno de sabor picante, con frijoles negros y salsa de adobo.",
+    
+    "sheet":"Pizza en sartén",
+    "sheetdes":"¡Aquí se explica cómo hacer la mejor pizza en sartén! Este método fácil hace una gran sartén para que todos disfruten con su familia.",
+
+    "burrito":"Burrito Vegetariano",
+    "burritodes":"Esta cena rápida está protagonizada por frijoles negros y verduras con salsa ranchera picante de cilantro y lima",
+    
+    "fettuccine":"Fettuccine Alfredo",
+    "fettuccinedes":"Este fettuccine alfredo vegano tiene un sabor decadente, pero la salsa cremosa está llena de ingredientes saludables a base de plantas",
+
+    "tofu":"tofu barbacoa",
+    "tofudes":"¡Esta receta épica de tofu a la barbacoa es rápida, fácil y llena de sabor dulce y sabroso! Una excelente manera de convertir a cualquiera en un fanático del tofu.",
+
+    "pasta":"Pasta vegetal",
+    "pastades":"¡Esta pasta vegetal fácil combina espagueti con verduras asadas coloridas! Es una idea de cena saludable para cargar cosas buenas..",
+
+
+    "grilledchick":"escalope de pollo a la parrilla",
+    "grilledchickdes":"Asado a la perfección y servido con una salsa fresca de uvas, cebolleta y tomates cherry",
+     
+    "mutton":"Korma de cordero",
+    "muttondes":"Un sabroso curry de cordero, donde la carne se revuelve con cuajada, pasta de ajo y jengibre, clavo, caradamamo y canela en rama.",
+
+    "tandoori":"Cordero tandoori",
+    "tandoorides":"Chuletas de cordero marinadas en yogurt colado y sabrosas masalas. Cocinado hasta que esté tierno, este plato está garantizado para impresionar.",
+
+    "fish":"Pescado Biriyani",
+    "fishdes":"Este clásico Malabar Fish Biriyani se puede devorar en todo momento. Disfruta del delicioso sabor de este plato siempre encantador.",
+
+    "chicken65":"pollo 65",
+    "chicken65des":"Se dice que el pollo 65 se originó en Chennai. Esta deliciosa receta frita de pollo 65 es de la casa.",
+
+    "butterchick":"Pollo de mantequilla",
+    "butterchickdes":"Esta receta de pollo con mantequilla de Moti Mahal es fácil de seguir y sirve para iniciar una conversación al instante." 
+    
+} 
